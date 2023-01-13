@@ -42,5 +42,6 @@ There are a few limitations to this script:
 - It may not be able to scrape email addresses from websites that use JavaScript to dynamically generate their content, because it relies on static HTML.
 - It may not be able to scrape emails from websites that use CAPTCHAs or other measures to block web scraping.
 
-
-
+<div align="center">
+"Please note that this script is for educational purposes only and should not be used for any malicious or unethical activities."
+</div>
